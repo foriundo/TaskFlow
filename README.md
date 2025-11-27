@@ -25,9 +25,9 @@ Deliverables:
 - /tasks CRUD
 - Swagger/docs auto-generated
 
-# Week 2
+# Week 2: Frontend UI (React)
 
-Build: Frontend UI (React)
+Build:
 - Login + Register UI
 - Dashboard showing tasks
 - Create Task modal
